@@ -1,0 +1,3 @@
+[submodule "src/eigen_ros2"]
+	path = src/eigen_ros2
+	url = https://github.com/Stella-Robotics/eigen_ros2.git
