@@ -1,6 +1,8 @@
 [submodule "src/eigen_ros2"]
 	path = src/eigen_ros2
 	url = https://github.com/Stella-Robotics/eigen_ros2.git
+	branch = main
 [submodule "src/stella_sim"]
 	path = src/stella_sim
-	url = https://github.com/Stella-Robotics/stella_sim
+	url = https://github.com/Stella-Robotics/stella_sim.git
+	branch = main
